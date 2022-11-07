@@ -1,0 +1,35 @@
+.brand_center 
+{
+    margin: auto;
+    width: 30%;
+    font-size: 30px;
+    color: #000;
+    border: 10px;
+    font-weight: 500;
+    
+    
+    
+}
+
+#welcome
+{
+    padding-left: 5%;
+    padding-right: 5%;
+    font-style: normal;
+    font-family: sans-serif;
+    color: darkblue;
+}
+
+#process
+{
+    padding-left: 5%;
+    padding-right: 5%;
+    font-style: normal;
+    font-family: sans-serif;
+}
+
+.cons
+{
+    padding-left: 30%;
+    padding-top: 25%;
+}
