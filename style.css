@@ -1,3 +1,11 @@
+body
+{
+    margin: 0.5%;
+    padding: 0.5%;
+    border: #000;
+    border-width: 2px; 
+}
+
 .brand_center 
 {
     margin: auto;
@@ -13,23 +21,32 @@
 
 #welcome
 {
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: ;
+    padding-right: ;
+    padding-bottom: ;
     font-style: normal;
     font-family: sans-serif;
-    color: darkblue;
+    color: rgb(35, 10, 146);
 }
 
 #process
 {
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: ;
+    padding-right: ;
     font-style: normal;
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .cons
 {
-    padding-left: 30%;
-    padding-top: 25%;
+    padding-left: ;
+    padding-top: ;
 }
+
+#table, th, td 
+  { 
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(35, 10, 146);
+    text-align: center;
+    border:1px solid black;
+  }
